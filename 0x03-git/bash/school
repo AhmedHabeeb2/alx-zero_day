@@ -1,1 +1,2 @@
-the_school_is_open
+#!/bin/bash
+echo "The school is open!"
